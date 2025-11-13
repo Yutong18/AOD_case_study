@@ -1,4 +1,4 @@
-# AOD_case_study# STGP: State-Space Filtering for Convolution-Generated Spatio-Temporal GP
+# STGP: State-Space Filtering for Convolution-Generated Spatio-Temporal GP
 
 This repo provides two frequency-domain state-space filters for spatio-temporal fields on a regular 2-D grid:
 - **Proposed model** (Galerkin + Euler, derivative-aware): `src/train_proposed.py`
